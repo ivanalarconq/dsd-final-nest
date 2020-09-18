@@ -1,7 +1,7 @@
 # Equipo 1
-## Bhérring Paucar Bonifacio 
-## Ivan Alarcon
-## Wanderd Vidal Rios
+- Bhérring Paucar Bonifacio 
+- Ivan Alarcon
+- Wanderd Vidal Rios
 
 # NodeJS - REST API with NestJS Framework
 
